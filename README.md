@@ -78,5 +78,5 @@ SMS or mobile notifications for unsafe water
 ## 📊 Survey Data
 
 You can view the anonymized student water-related health survey here:  
-👉 [Click to View Survey Excel File](https://docs.google.com/spreadsheets/d/14DOPfDya3wGvnnWgs--PPDJaNzK_DbNzGPdlZrSlbxM/edit?usp=sharing)
+👉 https://docs.google.com/spreadsheets/d/14DOPfDya3wGvnnWgs--PPDJaNzK_DbNzGPdlZrSlbxM/edit?usp=sharing
 
